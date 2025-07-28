@@ -44,10 +44,6 @@ Interactive hover effects on navigation links enhance the user experience.
 
 No Dependencies: The project is built with pure HTML and CSS, requiring no JavaScript, libraries, or frameworks, making it lightweight and easy to maintain.
 
-### Live Demo
-
-https://github.com/Ninotzz/ICT_Unito_showcase/
-
 ### How To Use
 
 As this is a static website, no installation is required.
