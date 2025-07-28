@@ -1,0 +1,94 @@
+Primo piano:#23628F  Sfondo:#F2F2F2
+
+Il rapporto di contrasto di luminosità è: 5.8:1
+
+Testo - Superato al livello AA
+
+Testo - Non superato al livello AAA
+
+Testo grande - Superato al livello AA
+
+Testo grande - Superato al livello AAA
+
+SC 1.4.3 Contrasto (Minimo): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 4.5:1, ad esclusione di: (Livello AA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 3:1;
+
+SC 1.4.6 Contrasto (Esteso): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 7:1, ad esclusione di: (Livello AAA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 4.5:1
+
+Note: 1. Testo o immagini di testo parte di un componente inattivo di una interfaccia utente, oppure puramente decorativi, o che sono testo secondario in una immagine, o che non sono visibili, non hanno un rapporto di contrasto di luminosità minimo richiesto. 2. Testo che è parte di un logo o di un marchio non ha un rapporto di contrasto di luminosità minimo richiesto.
+
+
+
+Primo piano:#D1CD49  Sfondo:#000000
+
+Il rapporto di contrasto di luminosità è: 12.5:1
+
+Testo - Superato al livello AA
+
+Testo - Superato al livello AAA
+
+Testo grande - Superato al livello AA
+
+Testo grande - Superato al livello AAA
+
+SC 1.4.3 Contrasto (Minimo): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 4.5:1, ad esclusione di: (Livello AA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 3:1;
+
+SC 1.4.6 Contrasto (Esteso): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 7:1, ad esclusione di: (Livello AAA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 4.5:1
+
+Note: 1. Testo o immagini di testo parte di un componente inattivo di una interfaccia utente, oppure puramente decorativi, o che sono testo secondario in una immagine, o che non sono visibili, non hanno un rapporto di contrasto di luminosità minimo richiesto. 2. Testo che è parte di un logo o di un marchio non ha un rapporto di contrasto di luminosità minimo richiesto.
+
+
+Primo piano:#004D4D  Sfondo:#F2F2F2
+
+Il rapporto di contrasto di luminosità è: 8.6:1
+
+Testo - Superato al livello AA
+
+Testo - Superato al livello AAA
+
+Testo grande - Superato al livello AA
+
+Testo grande - Superato al livello AAA
+
+SC 1.4.3 Contrasto (Minimo): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 4.5:1, ad esclusione di: (Livello AA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 3:1;
+
+SC 1.4.6 Contrasto (Esteso): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 7:1, ad esclusione di: (Livello AAA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 4.5:1
+
+Note: 1. Testo o immagini di testo parte di un componente inattivo di una interfaccia utente, oppure puramente decorativi, o che sono testo secondario in una immagine, o che non sono visibili, non hanno un rapporto di contrasto di luminosità minimo richiesto. 2. Testo che è parte di un logo o di un marchio non ha un rapporto di contrasto di luminosità minimo richiesto.
+
+
+Primo piano:#804000  Sfondo:#F2F2F2
+
+Il rapporto di contrasto di luminosità è: 7.1:1
+
+Testo - Superato al livello AA
+
+Testo - Superato al livello AAA
+
+Testo grande - Superato al livello AA
+
+Testo grande - Superato al livello AAA
+
+SC 1.4.3 Contrasto (Minimo): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 4.5:1, ad esclusione di: (Livello AA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 3:1;
+
+SC 1.4.6 Contrasto (Esteso): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 7:1, ad esclusione di: (Livello AAA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 4.5:1
+
+Note: 1. Testo o immagini di testo parte di un componente inattivo di una interfaccia utente, oppure puramente decorativi, o che sono testo secondario in una immagine, o che non sono visibili, non hanno un rapporto di contrasto di luminosità minimo richiesto. 2. Testo che è parte di un logo o di un marchio non ha un rapporto di contrasto di luminosità minimo richiesto.
+
+
+Primo piano:#0000FF  Sfondo:#F2F2F2
+
+Il rapporto di contrasto di luminosità è: 7.7:1
+
+Testo - Superato al livello AA
+
+Testo - Superato al livello AAA
+
+Testo grande - Superato al livello AA
+
+Testo grande - Superato al livello AAA
+
+SC 1.4.3 Contrasto (Minimo): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 4.5:1, ad esclusione di: (Livello AA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 3:1;
+
+SC 1.4.6 Contrasto (Esteso): La rappresentazione grafica del testo e delle immagini contenenti testo ha un rapporto di contrasto di luminosità minimo pari a 7:1, ad esclusione di: (Livello AAA) testo a caratteri larghi e immagini di testo a caratteri larghi hanno un rapporto di contrasto di luminosità minimo pari a 4.5:1
+
+Note: 1. Testo o immagini di testo parte di un componente inattivo di una interfaccia utente, oppure puramente decorativi, o che sono testo secondario in una immagine, o che non sono visibili, non hanno un rapporto di contrasto di luminosità minimo richiesto. 2. Testo che è parte di un logo o di un marchio non ha un rapporto di contrasto di luminosità minimo richiesto.
