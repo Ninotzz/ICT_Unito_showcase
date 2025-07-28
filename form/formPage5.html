@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>	
+	<meta charset="UTF-8">
+	<meta name="keywords" content="ict, innovazione, nuove tecnologie, unito, università degli studi di torino, torino, università, questionario, survey">
+	<meta name="description" content="questionario sui fattori che influenzano lo studio, creato da due studenti dell'Università di Torino">
+	<meta name="author" content="Carlo Pagliaro, Matteo Ninotti">
+	<link rel="stylesheet" type="text/css" href="formStyle.css" />  <!-- Cambiato css, ne ho messo uno specifico per il form -->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> 
+	<title id="titoloPagina">Questionario di Società della rete: Teorie e metodi</title>
+</head>
+  
+
+<body> 
+
+
+	<header id="header">
+		<h4>Questionario - I fattori che influenzano il rendimento universitario</h4>
+		<h4>Pagina 5</h4>
+	</header>
+
+	<br>
+
+	<form action="esegui.php" method="POST" enctype="text/plain"> 
+
+		<p>10. Sesso: </p>
+
+		<input type="radio" name="genere" value="F"/>Femmina<br>
+		<input type="radio" name="genere" value="M"/>Maschio<br>
+
+		<br>
+
+
+		<p>11. Data di nascita: </p>
+
+		<input type="date" name="dataNascita" id="dataNascita">
+
+		<br>
+		<br>
+
+
+		<p>12. Quando ti sei iscritto all'università?</p>
+
+		<input type="month" name="iscrizioneUni" id="iscrizioneUni"/> 
+
+		<br>
+		<br>
+
+
+		<p>13. Quale anno del corso di laurea in ICT stai frequentando?</p>
+
+		<select name="annoCorsoICT">
+		  <option value="1"> Primo anno</option>
+		  <option value="2"> Secondo anno</option>
+		  <option value="3"> Terzo anno</option>		
+		</select>	
+
+		<br>
+		<br>
+
+		<p>14.  Ad un certo numero di studenti capita che al termine dell’anno accademico non abbiano crediti sufficienti per passare all’anno successivo. A te è capitato?</p>
+
+		<input type="radio" name="genere" value="F"/>Si<br>
+		<input type="radio" name="genere" value="M"/>No<br>
+
+		<br>
+		<br>
+
+		<p>15. Che titolo di studio hanno i tuoi genitori?</p>
+		<select name="titoloStudioGenitori">
+		  <option value="1">Uno o entrambi laureati</option>
+		  <option value="2">Uno o entrambi diplomati</option>
+		  <option value="3">Uno o entrambi licenza media o meno (nessun diplomato)</option>
+		  <option value="4">Non lo so</option>		
+		</select>	
+
+		<br>
+		<br>
+
+		<input type="submit" value="Invia">
+
+	</form>
+
+	<br>
+	<br>
+		
+	<a href="formPage4.html" accesskey="p"><strong>Pagina precedente</strong></a>
+
+	<br>
+	<br>
+	<br>
+
+	<h2><em>Grazie per aver partecipato!</em></h2>
+		
+</body>
+</html>

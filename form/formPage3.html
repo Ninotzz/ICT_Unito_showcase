@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>   
+   <meta charset="UTF-8">
+   <meta name="keywords" content="ict, innovazione, nuove tecnologie, unito, università degli studi di torino, torino, università, questionario, survey">
+   <meta name="description" content="questionario sui fattori che influenzano lo studio, creato da due studenti dell'Università di Torino">
+   <meta name="author" content="Carlo Pagliaro, Matteo Ninotti">
+   <link rel="stylesheet" type="text/css" href="formStyle.css" />  <!-- Cambiato css, ne ho messo uno specifico per il form -->
+   <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> 
+   <title id="titoloPagina">Questionario di Società della rete: Teorie e metodi</title>
+</head>
+  
+
+<body> 
+
+
+   <header id="header">
+      <h4>Questionario - I fattori che influenzano il rendimento universitario</h4>
+      <h4>Pagina 3</h4>
+   </header>
+
+	<br>
+
+	<form action="esegui.php" method="POST" enctype="text/plain"> 
+
+		<p>5. Hai mai svolto esperienze lavorative e/o di tirocinio lavorativo?</p>
+
+		<input type="radio" name="lavoro" value="1"/>Si<br>
+			<input type="radio" name="lavoro" value="2"/>No<br>
+
+			<p>[SE LA RISPOSTA E' "NO" PASSARE ALLA DOMANDA 7]</p>
+		
+		<br>
+
+		<p>6. Se si, quale tra studio e lavoro è l’attività per te prevalente?</p>
+
+		<input type="radio" name="genere" value="1"/>Studio<br>
+			<input type="radio" name="genere" value="2"/>Lavoro<br>
+			<input type="radio" name="genere" value="3"/>Non saprei<br>
+		
+		<br>
+		
+
+		<p>7. Quanto spesso svolgi queste attività?</p>
+
+		<p>Intrattenimento (andare al cinema, leggere, giocare ai videogames, ecc..)</p>
+		<select name="intrattenimento">
+		  <option value="1"> 1 - Tutti i giorni</option>
+		  <option value="2"> 2 - Più di 3 volte a settimana</option>
+		  <option value="3"> 3 - Da 1 a 3 volte a settimana</option>
+		  <option value="4"> 4 - Qualche volta</option>
+		  <option value="5"> 5 - Mai</option>
+		  <option value="6"> 6 - Non saprei</option>
+		</select>
+		  
+		<br>
+
+		<p>Uscire con gli amici</p>
+		<select name=“uscireAmici”>
+		  <option value=“1”> 1 - Tutti i giorni</option>
+		  <option value=“2”> 2 - Più di 3 volte a settimana</option>
+		  <option value=“3”> 3 - Da 1 a 3 volte a settimana</option>
+		  <option value=“4”> 4 - Qualche volta</option>
+		  <option value=“5”> 5 - Mai</option>
+		  <option value=“6”> 6 - Non saprei</option>
+		</select>
+		  
+		<br>
+
+		<p>Volontariato</p>
+		<select name=“volontariato”>
+		  <option value=“1”> 1 - Tutti i giorni</option>
+		  <option value=“2”> 2 - Più di 3 volte a settimana</option>
+		  <option value=“3”> 3 - Da 1 a 3 volte a settimana</option>
+		  <option value=“4”> 4 - Qualche volta</option>
+		  <option value=“5”> 5 - Mai</option>
+		  <option value=“6”> 6 - Non saprei</option>
+		</select>
+		
+		<br>
+
+		<p>Creazione artistica (suonare in un gruppo musicale, dipingere, fare fotografie, ecc..)</p>
+		<select name=“soddisfazione”>
+		  <option value=“1”> 1 - Tutti i giorni</option>
+		  <option value=“2”> 2 - Più di 3 volte a settimana</option>
+		  <option value=“3”> 3 - Da 1 a 3 volte a settimana</option>
+		  <option value=“4”> 4 - Qualche volta</option>
+		  <option value=“5”> 5 - Mai</option>
+		  <option value=“6”> 6 - Non saprei</option>
+		</select>
+		
+		<br>
+
+		<p>Sport</p>
+		<select name=“soddisfazione”>
+		  <option value=“1”> 1 - Tutti i giorni</option>
+		  <option value=“2”> 2 - Più di 3 volte a settimana</option>
+		  <option value=“3”> 3 - Da 1 a 3 volte a settimana</option>
+		  <option value=“4”> 4 - Qualche volta</option>
+		  <option value=“5”> 5 - Mai</option>
+		  <option value=“6”> 6 - Non saprei</option>
+		</select>
+		
+		<br>
+		<br>
+
+	</form>
+
+	<a href="formPage2.html" accesskey="p"><strong>Pagina precedente</strong></a>
+  	<a href="formPage4.html" accesskey="n"><strong>Pagina successiva</strong></a>
+
+</body>
+</html>

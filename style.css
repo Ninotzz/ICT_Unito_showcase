@@ -1,0 +1,337 @@
+/* qui inizia general */
+
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+abbr {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("immagini/ict-smart-cities-blog-min.jpg");
+	background-attachment: fixed;
+	height: 100%;
+	background-size: cover;
+	font-family: "Quicksand", Calibri, verdana, helvetica;
+}
+
+.skiplink {
+	display:none
+} 
+
+#container {
+	max-width: 100%;
+	width: 1500px;
+	margin: auto;
+	background-color: #f2f2f2;
+}
+
+/* qui finisce general */
+
+
+/* qui inizia header */
+
+#header {
+    background-color: #35424a;
+	width: 100%;
+	height: 180px;
+}
+
+#logo1{
+	position: relative;
+	left: 2%;
+	height: 100px;
+	padding:40px 25px;
+}
+
+#logo2{
+	height: 100px;
+	float:right;
+	padding:45px 30px;
+}
+
+#underHeader {
+	width: 100%;
+	padding:15px 0 30px;
+	background-color: #35424a;
+}
+
+#underHeader h1 {
+	font-family: "Bowlby One", Calibri, Verdana, Helvetica;
+	text-align:center;
+	color:whitesmoke;
+	text-transform: uppercase;
+    font-size:250%;  
+	height: 100%;
+	display: block;
+}									
+
+#nav{
+    background-color: #000000;
+	width: 100%;
+	text-align: center;
+	position: sticky;
+	position: -webkit-sticky; /* Safari */
+	top: 0;     
+	z-index: 1;
+	opacity: 0.8;
+}
+
+#menuNavigazione li{
+	list-style: none;
+	display: inline-block;
+}
+
+#menuNavigazione li a{
+	text-decoration: none;
+	position: relative;
+	font-size: 120%;
+	color: #fff;
+	display: block;
+	overflow: hidden;
+	padding: 14px 30px; 
+}
+
+#menuNavigazione li a::after{  /*https://www.youtube.com/watch?v=wVSjKfLKvbk*/  /*https://www.youtube.com/watch?v=djbtPnNmc0I*/
+	content: '';
+	position: absolute;
+	border-bottom: 8px solid rgb(209,205,73);
+	bottom: 0;
+	transition: 0.3s;
+	right: 200px;
+}
+
+#menuNavigazione li a:hover::after{
+	right: 0;
+	width: 100%;
+}
+
+/* qui finisce header */
+
+
+/* Qui inizia main */
+
+#main{
+	box-sizing: border-box;
+	padding: 40px 60px 80px;
+    font-size: 140%;
+	z-index: 0;
+	width: 100%;
+	overflow: auto; /* Questa regola è per mandare il testo a capo quando si zoomma */
+}
+
+#main article h2 {
+	color: #23628f;
+	font-weight: 700;
+	font-family: "Bowlby One", calibri, verdana, helvetica;
+	text-transform: uppercase;
+}
+
+#main article h3 {
+	font-weight: 800;
+	font-size: 160%;
+	font-family: "Montserrat", calibri, verdana, helvetica;
+}
+
+#main article a {
+	color: #004d4d;
+}
+
+#main article a:hover{
+	color: #804000;
+}
+
+#main article a:active{
+	color: #0000FF;
+}
+
+#main article ul {
+	display: inline-block;
+	position: relative;
+	left: 50px;
+}
+
+#main article ul {
+	margin: 5px 0 0 5px;
+}
+
+#main article li {
+	list-style-type: disc;
+	margin: 30px  30px;
+}
+
+.indent{
+	display: inline-block;
+	margin-left: 100px;
+	width: 80%; /*in questo modo gli elementi indentati non escono dal main*/
+}
+
+#studenteICT li {
+	list-style-image: url("immagini/v__1021321.png");
+}
+
+#studenteICT2 {
+	display: inline-block;
+	margin-top: 70px;
+}
+
+#linkQuest {
+    padding: 1.5%;
+    margin-top: 2%;
+    margin-left: 45%;
+    margin-bottom: 1%;
+    border-radius: 15px;
+    background-color: rgb(209,205,73);
+}
+
+table {
+	padding: 50px 0px;
+	border-collapse: collapse;
+}
+ 
+table td, th, tr {
+	padding: 0px 40px 0px 40px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+/* Qui finisce main */
+
+
+/* Qui inizia footer v2 (responsive) */
+
+
+#footer {
+    background-color: black;
+    width: 100%;
+    overflow:hidden;
+} 
+
+#footer a{ 
+	color: rgb(209,205,73);
+}
+
+#footer a:hover{
+	color: yellow;
+}
+
+#footer a:active{
+	color: #00FFFF;
+}
+
+.footerFloat {
+	color: whitesmoke;
+	box-sizing: border-box;
+	margin: 50px 0px;
+	padding: 20px 60px;
+	font-size: 130%;
+	width: 25%;
+	float: left;
+	border-right: 1px solid grey;	
+}
+
+.footerFloat:last-child {
+	border-right: none;
+}
+
+.footerFloat ul li{
+	list-style-type: disc;
+	color: whitesmoke;
+}
+
+.footerFloat h2 {
+	font-size: 145%;
+}
+
+#social li{
+	list-style-image: url("immagini/facebook-logo-25x25.png");
+}
+
+#logo3 {
+	position: relative;
+	height: 100px;
+	padding:15px;
+	display: block;
+	margin: auto;
+}
+
+#logo4{
+	display: block;
+	margin: auto;
+	padding: 30px;
+	height: 185px;
+}
+
+#underFooter {
+	font-size: 80%;
+	color: whitesmoke;
+	background-color: black;
+	padding: 20px 40px;
+}
+
+#underFooter a {
+	color: rgb(209,205,73);
+}
+
+#underFooter a:hover{
+	color: yellow;
+}
+
+#underFooter a:active{
+	color: #00FFFF;
+}
+
+/* Qui finisce footer v2 (responsive) */
+
+
+/* Qui iniziano mediaquery */
+
+/*le regole mediaquery vanno messe in fondo al css perchè altrimenti non hanno la priorità sulle regole di defaut */
+ 
+@media all and (max-width: 1500px) { 	/* specifiche per devices < 1500px */
+
+    .footerFloat { 						
+		width: 70%;	
+		margin: auto;
+		padding: 60px 80px;
+		border-bottom: 1px solid grey;
+		border-right: none;
+		float: none;
+	}	
+
+	.footerFloat:last-child {
+		border-bottom: none;
+	}
+	
+	#underFooter  {
+		font-size: 55%;
+	}
+
+	#nav {   
+		position: static;
+	}
+	
+	#header {
+		height: 140px;
+	}
+
+	#logo1{
+		height: 70px;
+		padding: 40px 10px 0px;
+	}
+
+	#logo2{
+		height: 70px;
+		padding:40px 10px 0px;
+	}
+	
+	#underHeader h1 {  
+		padding-bottom: 10px;
+	}
+
+}
