@@ -46,9 +46,7 @@ No Dependencies: The project is built with pure HTML and CSS, requiring no JavaS
 
 ### Live Demo
 
-(Optional) Add a link to your live demo here!
-
-https://your-username.github.io/your-repo-name/
+https://github.com/Ninotzz/ICT_Unito_showcase/
 
 ### How To Use
 
